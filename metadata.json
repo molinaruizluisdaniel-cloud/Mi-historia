@@ -1,0 +1,6 @@
+{
+  "name": "PET Industrial - Elite Edition",
+  "description": "Consola Maestra de Operaciones y Control Técnico Profesional. Incluye optimizador de soplado, logística y asistente IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
